@@ -12,8 +12,7 @@ public class Printer {
 	 *  synchronized
 	 * (Printer.class) { if(INSTANCE==null) INSTANCE=new Printer();
 	 * 
-	 * } } return INSTANCE;
-	 * 
+	 * } } return INSTANCE; 
 	 * }
 	 */
 	private static class InnerPrinter {
