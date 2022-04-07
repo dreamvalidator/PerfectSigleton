@@ -11,7 +11,6 @@ public class Printer {
 	 * public static Printer getInsatnce() { if(INSTANCE==null) {
 	 *  synchronized
 	 * (Printer.class) { if(INSTANCE==null) INSTANCE=new Printer();
-	 * 
 	 * } } return INSTANCE; 
 	 * }
 	 */
